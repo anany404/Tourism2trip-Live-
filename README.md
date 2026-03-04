@@ -8,7 +8,6 @@ The project focuses on responsive design, structured layout, and interactive use
 
 ## Preview
 
-![Tourism2Trip Preview](preview.png)
 
 > Add a screenshot named `preview.png` inside the project folder so it displays properly on GitHub.
 
@@ -33,7 +32,8 @@ The project focuses on responsive design, structured layout, and interactive use
 
 ---
 
-## Project Structure
+### Project Structure
+
 tourism2trip/
 │
 ├── assets/
