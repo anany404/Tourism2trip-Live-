@@ -37,37 +37,13 @@ The project focuses on responsive design, structured layout, and interactive use
 tourism2trip/
 │
 ├── assets/
-│ ├── bootstrap/
-│ ├── css/
-│ ├── img/
-│ ├── js/
-│ └── webfonts/
-│
-├── about.html
-├── ace-of-spades.html
-├── aztec-idols.html
-├── bell-of-fortune.html
-├── black-jack-mh.html
-├── contact.html
-├── dragon-ship.html
-├── enchanted-meadow.html
-├── fortune-teller.html
-├── fruit-bonanza.html
-├── games.html
-├── gift-shop.html
-├── golden-goal.html
 ├── index.html
-├── jolly-roger.html
-├── keno.html
-├── lucky-diamonds.html
-├── myth.html
-├── pearl-lagoon.html
-├── photo-safari.html
+├── about.html
+├── games.html
+├── contact.html
 ├── privacy.html
-├── space-race.html
-├── speed-cash.html
 ├── terms.html
-└── README.md
+└── README.md 
 ---
 
 ## How to Run the Project
